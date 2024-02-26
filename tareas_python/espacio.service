@@ -1,0 +1,11 @@
+[Unit]
+Description=Verificar espacio en disco cada 10 segundos
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/manolita/tareas_python/tarea5.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
