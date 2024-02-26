@@ -1,0 +1,644 @@
+{
+	"file_history":
+	[
+		"/home/manolita/tareas_python/tarea4.py"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"next_update_check": 1709053297,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 675.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			26.0,
+			95.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/etc/systemd/system/espacio.service",
+				"/home/manolita/tareas_python/tarea5.py",
+				"/home/manolita/tareas_python/tarea3.py",
+				"/home/manolita/tareas_python/tarea2.py",
+				"/home/manolita/tareas_python/tarea4.py"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 718.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/manolita/tareas_python/tarea2.py",
+					"settings":
+					{
+						"buffer_size": 213,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "import psutil"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAA1QAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/manolita/tareas_python/tarea3.py",
+					"settings":
+					{
+						"buffer_size": 371,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "import os"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAcwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/manolita/tareas_python/tarea5.py",
+					"settings":
+					{
+						"buffer_size": 104,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "# Dentro de la tarea4.py"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAwwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAADFAAAAIyBEZW50cm8gZGUgbGEgdGFyZWE0LnB5CmRlZiBjaGVja19kaXNrX3NwYWNlKCk6CiAgICAjIEzDs2dpY2EgcGFyYSByZXZpc2FyIGVsIGVzcGFjaW8gZW4gZGlzY28KCiMgRW4gdGFyZWE1LnB5CmZyb20gdGFyZWE0IGltcG9ydCBjaGVja19kaXNrX3NwYWNlCgojIFVzYXIgbGEgZnVuY2nDs24gaW1wb3J0YWRhCmNoZWNrX2Rpc2tfc3BhY2UoKQo",
+							"AQAAAAAAAAABAAAAwwAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "espacio"
+							},
+							"BwAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAHYAAAAAAAAAeAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							2,
+							"left_delete",
+							null,
+							"AgAAACgAAAAAAAAAKAAAAAAAAAARAAAAcXXDrSBzaW1wbGVtZW50ZSAnAAAAAAAAACcAAAAAAAAAAQAAAEE",
+							"AQAAAAAAAAABAAAAOAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/etc/systemd/system/espacio.service",
+					"settings":
+					{
+						"buffer_size": 219,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "[Unit]"
+					},
+					"undo_stack":
+					[
+						[
+							10,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAvAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAC8AAAAW1VuaXRdCkRlc2NyaXB0aW9uPVZlcmlmaWNhciBlc3BhY2lvIGVuIGRpc2NvIGNhZGEgMTAgc2VndW5kb3MKW1NlcnZpY2VdClR5cGU9c2ltcGxlCkV4ZWNTdGFydD0vdXNyL2Jpbi9weXRob24zIC9ob21lL21hbm9saXRhL3RhcmVhc19weXRob24vdGFyZWE1LnB5CltJbnN0YWxsXQpXYW50ZWRCeT1tdWx0aS11c2VyLnRhcmdldAo",
+							"AQAAAAAAAAABAAAAvAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							7,
+							"left_delete",
+							null,
+							"BwAAAFUAAAAAAAAAVQAAAAAAAAABAAAAdFQAAAAAAAAAVAAAAAAAAAABAAAAb1MAAAAAAAAAUwAAAAAAAAABAAAAaFIAAAAAAAAAUgAAAAAAAAABAAAAc1EAAAAAAAAAUQAAAAAAAAABAAAAZVAAAAAAAAAAUAAAAAAAAAABAAAAbk8AAAAAAAAATwAAAAAAAAABAAAAbw",
+							"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": "simple"
+							},
+							"BgAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							10,
+							"left_delete",
+							null,
+							"CgAAAKkAAAAAAAAAqQAAAAAAAAABAAAAc6gAAAAAAAAAqAAAAAAAAAABAAAAc6cAAAAAAAAApwAAAAAAAAABAAAAZaYAAAAAAAAApgAAAAAAAAABAAAAY6UAAAAAAAAApQAAAAAAAAABAAAAY6QAAAAAAAAApAAAAAAAAAABAAAAdaMAAAAAAAAAowAAAAAAAAABAAAAc6IAAAAAAAAAogAAAAAAAAABAAAALaEAAAAAAAAAoQAAAAAAAAABAAAAbqAAAAAAAAAAoAAAAAAAAAABAAAAbw",
+							"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAP///////+9/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "always"
+							},
+							"BgAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/manolita/tareas_python/tarea4.py"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/manolita/tareas_python/tarea2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 213,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										213,
+										213
+									]
+								],
+								"settings":
+								{
+									"auto_name": "import psutil",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/manolita/tareas_python/tarea3.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										371,
+										371
+									]
+								],
+								"settings":
+								{
+									"auto_name": "import os",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/manolita/tareas_python/tarea5.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										103,
+										104
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# Dentro de la tarea4.py",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/etc/systemd/system/espacio.service",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 219,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										219,
+										219
+									]
+								],
+								"settings":
+								{
+									"auto_name": "[Unit]",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,26,23,744,698,1823,945,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

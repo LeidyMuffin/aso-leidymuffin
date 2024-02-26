@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/manolita/tareas_python/tarea2.py" added="2024-02-26T18:16:55.487895Z" modified="2024-02-26T18:16:55.487902Z" visited="2024-02-26T18:16:55.487897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-02-26T18:16:55.487899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/manolita/tareas_python/tarea3.py" added="2024-02-26T20:15:06.122336Z" modified="2024-02-26T20:15:06.122342Z" visited="2024-02-26T20:15:06.122337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-02-26T20:15:06.122339Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/manolita/tareas_python/tarea4.py" added="2024-02-26T20:26:21.710197Z" modified="2024-02-26T20:58:05.968003Z" visited="2024-02-26T20:26:21.710199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-02-26T20:58:05.967999Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/manolita/tareas_python/tarea5.py" added="2024-02-26T20:30:46.069371Z" modified="2024-02-26T20:30:46.069378Z" visited="2024-02-26T20:30:46.069373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-02-26T20:30:46.069374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/espacio.service" added="2024-02-26T21:01:25.344119Z" modified="2024-02-26T21:01:25.344124Z" visited="2024-02-26T21:01:25.344120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-02-26T21:01:25.344122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
